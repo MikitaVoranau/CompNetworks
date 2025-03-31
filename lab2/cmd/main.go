@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"CN_lab2/api/client"
-	"CN_lab2/api/server"
+	"CN_lab2/lab2/api/client"
+	"CN_lab2/lab2/api/server"
 	"fmt"
 	"os"
 )

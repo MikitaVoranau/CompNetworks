@@ -1,7 +1,7 @@
 package server
 
 import (
-	"CN_lab2/pkg"
+	"CN_lab2/lab2/pkg"
 	"fmt"
 	"net"
 )
